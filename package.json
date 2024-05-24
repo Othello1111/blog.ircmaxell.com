@@ -6,7 +6,7 @@
     "version": "3.8.0"
   },
   "dependencies": {
-    "hexo": "^3.3.9",
+    "hexo": "^5.4.1",
     "hexo-autoprefixer": "^1.0.0",
     "hexo-deployer-git": "^0.3.1",
     "hexo-deployer-s3": "^0.2.2",
@@ -28,6 +28,6 @@
     "hexo-server": "^0.2.0",
     "hexo-tag-twitter": "^1.0.1",
     "uglify": "^0.1.5",
-    "uglify-js": "^3.1.4"
+    "uglify-js": "^3.5.3"
   }
 }
